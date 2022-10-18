@@ -1,0 +1,1 @@
+- Generate the template for the slides: `npx fusuma init` 

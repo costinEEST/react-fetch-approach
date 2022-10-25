@@ -1,1 +1,2 @@
 - Generate the template for the slides: `npx fusuma init` 
+- https://hiroppy.github.io/fusuma/docs/getting-started/preparation.html

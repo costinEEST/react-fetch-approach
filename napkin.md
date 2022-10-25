@@ -1,0 +1,11 @@
+- https://tanstack.com/query/v4/docs/comparison
+- https://redux-toolkit.js.org/rtk-query/comparison + https://blog.logrocket.com/rtk-query-future-data-fetching-caching-redux
+- https://www.joshwcomeau.com/react/next-level-playground
+- [RTK uses immer underly, which greatly reduces the complexity of updating complex states and returning new references](https://stackoverflow.com/a/72256328/1904223)
+- https://blog.openreplay.com/fetching-data-in-redux-using-rtk-query
+- https://codevoweb.com/setup-redux-toolkit-and-rtk-query
+- [React Redux Toolkit Query Tutorial and RTK Query CRUD Example App](https://www.youtube.com/watch?v=HyZzCHgG3AY)
+- [Redux Toolkit Query vs React Query](https://youtu.be/LDS1ll93P-s)
+- https://blog.logrocket.com/swr-vs-tanstack-query-react
+- [Comparison to tannerlinsley/react-query](https://github.com/vercel/swr/issues/127)
+- https://dev.to/jherr/five-clever-hacks-for-react-query-or-swr-anf

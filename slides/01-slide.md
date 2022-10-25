@@ -1,0 +1,13 @@
+- https://goongoguma.github.io/2021/11/04/React-Query-vs-SWR/
+- Query 
+- Caching
+- Polling 
+- Parallel Queries
+- Initial Data
+- Window focus re-fetching
+- Network status re-fetching
+- Mutations are easy in SWR than RQ ?
+- [xswr](https://github.com/hazae41/xswr) for the best
+- [If your application already uses Redux/Toolkit, then Redux Toolkit Query should be the default way instead of adding additional baggage to your app.  RTK Query builds on API design patterns and feature concepts popularized by libraries like React Query &  SWR ~  merotuts](https://www.youtube.com/watch?v=8JdGeV21ZNA&lc=Ugw1-a7XDactc1gUrUZ4AaABAg)
+- https://npmtrends.com/react-query-vs-swr
+- https://blog.logrocket.com/swr-vs-tanstack-query-react
